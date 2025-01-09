@@ -5,7 +5,7 @@ const TermsOfService = () => {
     const navigate = useNavigate();
 
     return (
-        <div>
+        <div style={{paddingBottom: 50}}>
             <div style={{
                 top: 30,
                 left: 15,
