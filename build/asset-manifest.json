@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fa38daf.css",
+    "main.js": "/static/js/main.8425c829.js",
+    "static/media/PhoneMain.png": "/static/media/PhoneMain.d2668dbd76e2184de8b4.png",
+    "static/media/telegram.svg": "/static/media/telegram.d522dc50571a3c64d6b6756cc9cf7a1e.svg",
+    "static/media/PhoneWithApp2-removebg-preview.png": "/static/media/PhoneWithApp2-removebg-preview.ab336400ed5999c8168d.png",
+    "static/media/AppStore_PC.png": "/static/media/AppStore_PC.3b5cc4f69521136b9a7c.png",
+    "static/media/PlayMarket_PC.png": "/static/media/PlayMarket_PC.732bcf8182f799294df6.png",
+    "static/media/APK_PC.png": "/static/media/APK_PC.7aa40f1ada4f234883f6.png",
+    "static/media/ripple.svg": "/static/media/ripple.2425345d435225ac90b7dddcbe1f561b.svg",
+    "static/media/graph.svg": "/static/media/graph.8d206681458880e44c26cc46ff8bb104.svg",
+    "static/media/GooglePlay_Mob.png": "/static/media/GooglePlay_Mob.d94322368a2ded7ae812.png",
+    "static/media/AppStore_Mob.png": "/static/media/AppStore_Mob.264da8835c9e821fb628.png",
+    "static/media/Apk_Mob.png": "/static/media/Apk_Mob.41b3f32bc6d9f6e253e3.png",
+    "static/media/SVGAPK.png": "/static/media/SVGAPK.ed93179f29b14c6ce903.png",
+    "static/media/SVGAPPSTORE.png": "/static/media/SVGAPPSTORE.cd95981e4db66e25945f.png",
+    "static/media/SVGGOOGLEPLAY.png": "/static/media/SVGGOOGLEPLAY.c04f4207800b855fbb9a.png",
+    "static/media/transfer.svg": "/static/media/transfer.5873f6d08cb196935f8f9aa9eb38adae.svg",
+    "static/media/icon.svg": "/static/media/icon.672f8a4fa38bbfc409255101ea507935.svg",
+    "static/media/infinity.svg": "/static/media/infinity.0e55a05c6b3ac8b57c799ff423e7bb11.svg",
+    "static/media/btc.svg": "/static/media/btc.ca0b93740703bd7a8d1175b9da2ed075.svg",
+    "static/media/night.svg": "/static/media/night.b96169f3fbb3b8bc2b279ecc6f146bb5.svg",
+    "static/media/devices.svg": "/static/media/devices.5cfd78abcb141b1155706f8cf74a4091.svg",
+    "static/media/guard.svg": "/static/media/guard.8ca7760c597db893be2dc9896453fbfe.svg",
+    "static/media/eth.svg": "/static/media/eth.382a9505bfa33ff89c58e1d259a972af.svg",
+    "index.html": "/index.html",
+    "main.6fa38daf.css.map": "/static/css/main.6fa38daf.css.map",
+    "main.8425c829.js.map": "/static/js/main.8425c829.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa38daf.css",
+    "static/js/main.8425c829.js"
+  ]
+}
