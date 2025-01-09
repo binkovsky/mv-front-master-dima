@@ -1,0 +1,31 @@
+.telegraph-container {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.telegraph-title {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.telegraph-content p {
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.telegraph-link {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+.telegraph-link:hover {
+    text-decoration: underline;
+}
