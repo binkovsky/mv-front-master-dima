@@ -11,7 +11,7 @@ const ManualBlock = () => {
     return (
         <div className={'w-full  bg-[#15344D] flex flex-col justify-start items-center xl:px-36 lg:px-16 px-12'}>
             <p className={'font-urbanist font-bold lg:text-[35px] text-[25px] text-white md:py-16 py-8 text-left w-full'}>
-                Как совершить обмен BTC на RUB, USD, Qiwi или другую валюту
+                Как совершить обмен BTC на USD, EUR, UAH или другую валюту
             </p>
             <div className={'flex xl:h-[630px] lg:h-[630px] lg:flex-row flex-col justify-center items-center lg:items-start w-full'}>
                 <div className={`relative lg:w-1/2 w-full flex flex-col items-center transition-all ease-in-out duration-300 ${openIndex != null ? 'lg:h-[800px] md:h-[700px] h-[680px] ' : 'lg:h-[560px] md:h-[500px] h-[480px]'}`}>
@@ -64,7 +64,7 @@ const ManualBlock = () => {
                         {openIndex === 3 && (
                             <div className={'font-light text-[#CFCECE] w-full pb-4 md:text-[18px] text-[14px] overflow-hidden'}>
                                 <p>Введите номер телефона и пароль, чтобы войти в личный кабинет на сайт.</p>
-                                <p>Если вы еще не регистрировали аккаунт на Totalcoin, но нажмите кнопку «Регистрация». Введите номер телефона и пароль, который будете использовать для получения доступа на сайт. Также пройти регистрацию можно с помощью мессенджеров, а скоро появится возможность создать аккаунт с помощью email.</p>
+                                <p>Если вы еще не регистрировали аккаунт на M&V Coin, но нажмите кнопку «Регистрация». Введите номер телефона и пароль, который будете использовать для получения доступа на сайт. Также пройти регистрацию можно с помощью мессенджеров, а скоро появится возможность создать аккаунт с помощью email.</p>
                             </div>
                         )}
                     </div>
