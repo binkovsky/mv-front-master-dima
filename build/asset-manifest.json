@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.79900a51.css",
-    "main.js": "/static/js/main.c6b72093.js",
+    "main.js": "/static/js/main.b17cfe61.js",
     "static/media/PhoneMain.png": "/static/media/PhoneMain.d2668dbd76e2184de8b4.png",
     "static/media/telegram.svg": "/static/media/telegram.d522dc50571a3c64d6b6756cc9cf7a1e.svg",
     "static/media/PhoneWithApp2-removebg-preview.png": "/static/media/PhoneWithApp2-removebg-preview.ab336400ed5999c8168d.png",
@@ -27,10 +27,10 @@
     "index.html": "/index.html",
     "static/media/arrow-down-arrow-up-svgrepo-com.svg": "/static/media/arrow-down-arrow-up-svgrepo-com.c33088fe3f5eeabb95dad6091071d4b6.svg",
     "main.79900a51.css.map": "/static/css/main.79900a51.css.map",
-    "main.c6b72093.js.map": "/static/js/main.c6b72093.js.map"
+    "main.b17cfe61.js.map": "/static/js/main.b17cfe61.js.map"
   },
   "entrypoints": [
     "static/css/main.79900a51.css",
-    "static/js/main.c6b72093.js"
+    "static/js/main.b17cfe61.js"
   ]
 }
