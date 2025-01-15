@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6fa38daf.css",
-    "main.js": "/static/js/main.be96347d.js",
+    "main.css": "/static/css/main.79900a51.css",
+    "main.js": "/static/js/main.c6b72093.js",
     "static/media/PhoneMain.png": "/static/media/PhoneMain.d2668dbd76e2184de8b4.png",
     "static/media/telegram.svg": "/static/media/telegram.d522dc50571a3c64d6b6756cc9cf7a1e.svg",
     "static/media/PhoneWithApp2-removebg-preview.png": "/static/media/PhoneWithApp2-removebg-preview.ab336400ed5999c8168d.png",
@@ -25,11 +25,12 @@
     "static/media/guard.svg": "/static/media/guard.8ca7760c597db893be2dc9896453fbfe.svg",
     "static/media/eth.svg": "/static/media/eth.382a9505bfa33ff89c58e1d259a972af.svg",
     "index.html": "/index.html",
-    "main.6fa38daf.css.map": "/static/css/main.6fa38daf.css.map",
-    "main.be96347d.js.map": "/static/js/main.be96347d.js.map"
+    "static/media/arrow-down-arrow-up-svgrepo-com.svg": "/static/media/arrow-down-arrow-up-svgrepo-com.c33088fe3f5eeabb95dad6091071d4b6.svg",
+    "main.79900a51.css.map": "/static/css/main.79900a51.css.map",
+    "main.c6b72093.js.map": "/static/js/main.c6b72093.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fa38daf.css",
-    "static/js/main.be96347d.js"
+    "static/css/main.79900a51.css",
+    "static/js/main.c6b72093.js"
   ]
 }
